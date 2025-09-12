@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pkl
+.env
+
+# Data
+data/
+!data/README.md
+
+# Node / React
+node_modules/
+frontend/dist/
+
+# Editor / OS
+.vscode/
+.DS_Store
