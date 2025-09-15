@@ -1,0 +1,14 @@
+Using API key prefix: 579b464d...
+✅ Saved 120 PM2.5 rows (fetched) — total historical rows: 236
+Done: {'fetched': 120, 'historical_total': 236, 'out': '/Users/prithvirajpanth/Documents/Projects/airq-app/data/processed/india_realtime_api.csv', 'hist': '/Users/prithvirajpanth/Documents/Projects/airq-app/data/historical/india_hourly_raw.csv'}
+Using API key prefix: 579b464d...
+✅ Saved 120 PM2.5 rows (fetched) — total historical rows: 236
+Done: {'fetched': 120, 'historical_total': 236, 'out': '/Users/prithvirajpanth/Documents/Projects/airq-app/data/processed/india_realtime_api.csv', 'hist': '/Users/prithvirajpanth/Documents/Projects/airq-app/data/historical/india_hourly_raw.csv'}
+Using API key prefix: 579b464d...
+✅ Saved 122 PM2.5 rows (fetched) — total historical rows: 238
+Done: {'fetched': 122, 'historical_total': 238, 'out': '/Users/prithvirajpanth/Documents/Projects/airq-app/data/processed/india_realtime_api.csv', 'hist': '/Users/prithvirajpanth/Documents/Projects/airq-app/data/historical/india_hourly_raw.csv'}
+Run completed at Sat Sep 13 15:11:25 IST 2025
+Using API key prefix: 579b464d...
+✅ Saved 137 PM2.5 rows (fetched) — total historical rows: 375
+Done: {'fetched': 137, 'historical_total': 375, 'out': '/Users/prithvirajpanth/Documents/Projects/airq-app/data/processed/india_realtime_api.csv', 'hist': '/Users/prithvirajpanth/Documents/Projects/airq-app/data/historical/india_hourly_raw.csv'}
+Run completed at Sat Sep 13 17:02:02 IST 2025
